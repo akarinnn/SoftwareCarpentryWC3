@@ -1,5 +1,9 @@
 ## Welcome to My websites
 
+This is an mysterious empty website. 
+You don't know what was in here, and you will never be able to know what will be in here. 
+I sincerely apologize for the five seconds you wasted on reading these lines.
+
 You can use the [editor on GitHub](https://github.com/akarinnn/WC3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
